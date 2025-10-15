@@ -58,7 +58,7 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="coding gif"/>
 </p>
 
-<p align="center"><i>“El código que escribes hoy puede transformar el futuro de alguien mañana.”</i></p>
+<p align="center"><i>“Transformo ideas en sistemas, datos en soluciones y sueños en tecnología. No solo programo, construyo el futuro.”</i></p>
 
 ---
 
